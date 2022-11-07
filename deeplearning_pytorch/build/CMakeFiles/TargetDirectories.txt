@@ -1,3 +1,0 @@
-/root/dl_cpp/deeplearning_pytorch/build/CMakeFiles/main.dir
-/root/dl_cpp/deeplearning_pytorch/build/CMakeFiles/edit_cache.dir
-/root/dl_cpp/deeplearning_pytorch/build/CMakeFiles/rebuild_cache.dir
