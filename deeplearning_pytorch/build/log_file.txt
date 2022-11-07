@@ -1,0 +1,4 @@
+Consolidate compiler generated dependencies of target main
+[ 50%] Building CXX object CMakeFiles/main.dir/src/main.cpp.o
+[100%] Linking CXX executable main
+[100%] Built target main

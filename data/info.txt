@@ -1,0 +1,1 @@
+/root/dl_cpp/data/cat.jpeg 0 meow
